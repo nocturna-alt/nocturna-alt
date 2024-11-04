@@ -1,6 +1,6 @@
 ## 🕸️ Bienvenido a Mi Dominio 🕯️
 
-Bienvenido a un espacio donde la ciencia de datos se encuentra con el arte, la filosofía y un toque místico. Mi nombre es [Abril], un eterno aprendiz y explorador de conocimientos profundos y oscuros. Aquí encontrarás mis proyectos, mi amor por el conocimiento y, por supuesto, un pequeño rincón dedicado a **Baphy**, mi gato negro y compañero en este viaje de código y café.
+Bienvenido a un espacio donde la ciencia de datos se encuentra con el arte, la filosofía y un toque místico. Mi nombre es **Abril**, un eterno aprendiz y explorador de conocimientos profundos y oscuros. Aquí encontrarás mis proyectos, mi amor por el conocimiento y, por supuesto, un pequeño rincón dedicado a **Baphy**, mi gato negro y compañero en este viaje de código y café.
 
 ---
 
@@ -36,8 +36,8 @@ Bienvenido a un espacio donde la ciencia de datos se encuentra con el arte, la f
 
 ### 🎶 Mi Sonido en la Penumbra
 
-<a href="(https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8)">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tuusuario&cover_image=true&theme=novatorem&bar_color=black&bar_color_cover=true" alt="Spotify Currently Playing">
+<a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=abril_monta%C3%B1o_dn&cover_image=true&theme=novatorem&bar_color=black&bar_color_cover=true" alt="Spotify Currently Playing">
 </a>
 
 > **"La música oscura es el eco de nuestras almas."**
@@ -47,7 +47,7 @@ Bienvenido a un espacio donde la ciencia de datos se encuentra con el arte, la f
 ### 🕸️ Baphy, Guardián del Código 🐈‍⬛
 
 <p align="center">
-  <img src="https://github.com/Carcinogenetista01/BaphyTheCat/blob/main/baphy.png" alt="Baphy" width="200">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Gato Negro GIF" width="200">
 </p>
 
 - **Nombre completo:** Baphomet "Baphy" el Enigmático.
@@ -70,8 +70,18 @@ Baphy es el espíritu gótico de este espacio. Su misión: mantener el código o
 
 ---
 
-Gracias por visitar este rincón de sombras y aprendizajes. **Baphy** y yo te damos la bienvenida al oscuro arte del código. Si eres un amante del misterio, la música profunda, y la filosofía, estás en el lugar indicado. 
+### 🌑 Inspiración Oscura
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
+</p>
 
 > **"No temas a la oscuridad; ella tiene tanto que enseñarnos como la luz."**
+
+---
+
+Gracias por visitar este rincón de sombras y aprendizajes. **Baphy** y yo te damos la bienvenida al oscuro arte del código. Si eres un amante del misterio, la música profunda, y la filosofía, estás en el lugar indicado.
 
 Nos vemos en las sombras 🌑.
