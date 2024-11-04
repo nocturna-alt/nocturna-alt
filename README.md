@@ -1,76 +1,114 @@
-## 🕸️ Bienvenido a Mi Dominio 🕯️
-
-Bienvenido a un espacio donde la ciencia de datos se encuentra con el arte, la filosofía y un toque místico. Mi nombre es **Abril**, un eterno aprendiz y explorador de conocimientos profundos y oscuros. Aquí encontrarás mis proyectos, mi amor por el conocimiento y, por supuesto, un pequeño rincón dedicado a **Baphy**, mi gato negro y compañero en este viaje de código y café.
-
----
-
-### 🔮 Sobre Mí
-
-<a href="https://github.com/Carcinogenetista01">
-  <img src="https://img.shields.io/badge/Explorador%20del%20conocimiento-%23333333?style=for-the-badge">
-</a>
-<a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
-  <img src="https://img.shields.io/badge/Música%20Oscura%20en%20Spotify-%231db954?style=for-the-badge&logo=spotify&logoColor=black">
-</a>
-
-- 🖤 **Amante de lo oscuro:** Ciencia de datos, filosofía y arte, con una pizca de misterio.
-- 🎻 **Violinista en la penumbra:** La música es mi forma de expresión cuando el código no basta.
-- 🐈‍⬛ **Baphy, el guardián de mi código:** Mi gato negro y compañero de desvelos.
-- 📜 **Cita favorita:** "La vida sin examen no vale la pena ser vivida" — Sócrates.
-- 🌱 **Lo que busco:** Crear un cambio positivo en cada línea de código.
-- 💡 **Meta:** Inspirar y ayudar a otros a través del conocimiento y el ejemplo.
-
----
-
-### 🧛🏻‍♂️ Mi Legado GitHub
+# 🕸️ Welcome to My Dark Domain 🕯️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carcinogenetista01&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carcinogenetista01&theme=dracula" alt="GitHub Streak">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Carcinogenetista01.visitor-badge" alt="Visitas">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img src="https://typograssy.deno.dev/api?text=Data%20Science%20Enthusiast&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000" />
+  </a>
 </p>
 
-> "La oscuridad no es un obstáculo; es una invitación a ver con claridad." 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c1/0c/cb/c10ccbb388de51fea235d2935af58e93.gif" alt="Vaporwave Background"/>
+</p>
+
+I’m a Data Science student at **IIMAS, UNAM** 🎓 and a lover of the mysterious, the artistic, and the deeply philosophical.
+
+- 💻 **Passionate** about AI and diving into the depths of Computer Science.
+- 🤖 On a journey to master **Machine Learning** and **Natural Language Processing**.
+- 🌱 **Vegetarian** and advocate for compassionate living.
+- 🎮 Fan of dark-themed video games (*Alice: Madness Returns*).
+- 🐈‍⬛ Proud caretaker of **Baphy**, my black cat and mystical code guardian.
 
 ---
 
-### 🎶 Mi Sonido en la Penumbra
+## 🔮 About Me
 
 <a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=abril_monta%C3%B1o_dn&cover_image=true&theme=novatorem&bar_color=black&bar_color_cover=true" alt="Spotify Currently Playing">
+  <img src="https://img.shields.io/badge/Dark%20Vibes%20on%20Spotify-%231db954?style=for-the-badge&logo=spotify&logoColor=black">
 </a>
 
-> **"La música oscura es el eco de nuestras almas."**
+- 🎻 **Violinist in the Shadows**: Music is my expression when words and code fall short.
+- 📜 **Favorite Quote**: “The unexamined life is not worth living” — Socrates.
+- 💡 **Goal**: To inspire and uplift others through knowledge and creativity.
 
 ---
 
-### 🕸️ Baphy, Guardián del Código 🐈‍⬛
+## 🖥️ Programming Languages and Technologies
+
+A mix of what I’ve used and what I’m learning:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Gato Negro GIF" width="200">
-</p>
-
-- **Nombre completo:** Baphomet "Baphy" el Enigmático.
-- **Rol en mi vida:** Vigilante nocturno y místico de mi código.
-- **Especialidades:** Dormir en el teclado, invocar bugs, y mirar fijamente al vacío.
-  
-Baphy es el espíritu gótico de este espacio. Su misión: mantener el código oscuro y enigmático. ¿Te atreves a continuar…?
-
----
-
-### ⚰️ Mi Filosofía de Código
-
-1. **Cada bug tiene un propósito**: Un paso hacia la perfección y, en ocasiones, la desesperación.
-2. **Documentación es hechicería**: Rara vez la encuentras, pero cuando aparece, es oro puro.
-3. **El arte y la ciencia se unen**: La verdadera magia ocurre cuando el código funciona *y* es hermoso.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carcinogenetista01&layout=compact&theme=dracula" alt="Top Languages">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,arch,bash,c,cpp,python,django,docker,elasticsearch,git,github,java,latex,md,matlab,mysql,notion,postgres,powershell,r,regex,sqlite,sklearn,vscode&perline=8" alt="Skills Icons"/>
+  </a>
 </p>
 
 ---
 
-### 🌑 Inspiración Oscura
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=carcinogenetista01&theme=high-contrast" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carcinogenetista01&langs_count=6&theme=transparent&layout=donut-vertical&text_color=ffffff&title_color=ffffff&bg_color=000000" alt="Top Languages"/>
+  </a>
+</p>
+
+---
+
+## 🎶 Currently Vibing To
+
+<p align="center">
+  <a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=abril_monta%C3%B1o_dn&cover_image=true&theme=novatorem&bar_color=black&bar_color_cover=true" alt="Spotify Now Playing">
+  </a>
+</p>
+
+> **"Music is the heartbeat of the soul."**
+
+---
+
+## 🕸️ Baphy, Guardian of the Code 🐈‍⬛
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Black Cat GIF" width="200">
+</p>
+
+- **Full Name**: Baphomet "Baphy" the Enigmatic.
+- **Role**: My nocturnal overseer and mystical protector of code.
+- **Special Talents**: Sleeping on keyboards, summoning bugs, and staring into the void.
+
+Baphy is the gothic soul of this space. His mission: to keep the code dark, mysterious, and intriguing. Dare you proceed…?
+
+---
+
+## 🧩 Hobbies & Passions
+
+What truly sparks my interest:
+
+- 🧘 **Meditation**: Practicing mindfulness as a daily grounding ritual.
+- 🎶 **Music**: Exploring every genre and its depths.
+- 🍿 **Movies**: Diving into dark narratives and compelling storytelling.
+
+---
+
+### ⚰️ Philosophy in Code
+
+1. **Every bug has a purpose**: A step closer to perfection, or perhaps… madness.
+2. **Documentation is sorcery**: Rare and valuable when it appears.
+3. **Where art meets science**: True magic unfolds when code works *and* feels beautiful.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carcinogenetista01&layout=compact&theme=dracula" alt="Top Languages">
+</p>
+
+---
+
+### 🌑 Dark Inspirations
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -78,10 +116,16 @@ Baphy es el espíritu gótico de este espacio. Su misión: mantener el código o
   </a>
 </p>
 
-> **"No temas a la oscuridad; ella tiene tanto que enseñarnos como la luz."**
+> **"Do not fear the darkness; it has as much to teach us as the light."**
 
 ---
 
-Gracias por visitar este rincón de sombras y aprendizajes. **Baphy** y yo te damos la bienvenida al oscuro arte del código. Si eres un amante del misterio, la música profunda, y la filosofía, estás en el lugar indicado.
+## Thanks for Passing By!
 
-Nos vemos en las sombras 🌑.
+<p align="center">
+  <img src="https://static.wixstatic.com/media/c44a69_ffcfd14aed5540948233eea095dea3c4~mv2.gif" alt="Thank You Gif"/>
+</p>
+
+---
+
+See you in the shadows 🌑.
