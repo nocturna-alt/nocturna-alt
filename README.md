@@ -1,9 +1,6 @@
 # 🕸️ Welcome to My Dark Domain 🕯️
 
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=Data%20Science%20Enthusiast&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000" />
-  </a>
+
 </p>
 
 <p align="center">
@@ -34,7 +31,6 @@ I’m a Data Science student at **IIMAS, UNAM** 🎓, immersed in the mystical, 
 - 📜 **Favorite Quote**: “The unexamined life is not worth living.” — Socrates
 - 💡 **Goal**: To inspire and uplift others through shared knowledge and creativity.
 - 🌌 **Drawn to the Dark and Mysterious**: Captivated by beauty hidden in shadows, where depth and mystery converge.
-- 🌱 **Eco-Conscious & Vegetarian**: Living with reverence for nature and a commitment to sustainability.
 
 ---
 
