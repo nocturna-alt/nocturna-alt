@@ -5,9 +5,8 @@
     <img src="https://typograssy.deno.dev/api?text=Data%20Science%20Enthusiast&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c1/0c/cb/c10ccbb388de51fea235d2935af58e93.gif" alt="Vaporwave Background"/>
+  <img src="https://media.giphy.com/media/siCRldvfdu3Ic/giphy.gif" alt="Dark Moon GIF" width="700"/>
 </p>
 
 I’m a Data Science student at **IIMAS, UNAM** 🎓 and a lover of the mysterious, the artistic, and the deeply philosophical.
@@ -62,27 +61,33 @@ A mix of what I’ve used and what I’m learning:
 
 ## 🎶 Currently Vibing To
 
-<p align="center">
-  <a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=abril_monta%C3%B1o_dn&cover_image=true&theme=novatorem&bar_color=black&bar_color_cover=true" alt="Spotify Now Playing">
-  </a>
-</p>
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=abril_monta%C3%B1o_dn)](https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=96eb432126904cea)
 
 > **"Music is the heartbeat of the soul."**
+
 
 ---
 
 ## 🕸️ Baphy, Guardian of the Code 🐈‍⬛
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Black Cat GIF" width="200">
+  <img src="https://media2.giphy.com/media/9QkuSuf7vc3Ly/giphy.webp?cid=ecf05e47jmnqwbtyzuj5gtpxwm3x3ytfycrk3joqrnrab94b&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Moon GIF" width="400">
 </p>
 
-- **Full Name**: Baphomet "Baphy" the Enigmatic.
-- **Role**: My nocturnal overseer and mystical protector of code.
-- **Special Talents**: Sleeping on keyboards, summoning bugs, and staring into the void.
 
-Baphy is the gothic soul of this space. His mission: to keep the code dark, mysterious, and intriguing. Dare you proceed…?
+### Meet Baphy, the Enigmatic Overseer 🐾
+
+- **Full Name**: *Baphomet "Baphy" the Enigmatic*
+- **Role**: Nocturnal overseer and mystical protector of my code.
+- **Special Talents**: 
+   - Hauntingly silent keyboard naps
+   - Summoning bugs from the depths of the unknown
+   - Fixating on the void with unbroken focus
+
+> Baphy embodies the gothic spirit of this realm, a shadowed soul who watches over every line of code. His mission: to keep the darkness balanced, the mysteries unsolved, and the code ever intriguing.
+
+**Dare you to continue... or has Baphy's gaze already unsettled you?** 🖤
 
 ---
 
@@ -117,14 +122,6 @@ What truly sparks my interest:
 </p>
 
 > **"Do not fear the darkness; it has as much to teach us as the light."**
-
----
-
-## Thanks for Passing By!
-
-<p align="center">
-  <img src="https://static.wixstatic.com/media/c44a69_ffcfd14aed5540948233eea095dea3c4~mv2.gif" alt="Thank You Gif"/>
-</p>
 
 ---
 
