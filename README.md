@@ -5,35 +5,42 @@
     <img src="https://typograssy.deno.dev/api?text=Data%20Science%20Enthusiast&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/siCRldvfdu3Ic/giphy.gif" alt="Dark Moon GIF" width="700"/>
 </p>
 
-I’m a Data Science student at **IIMAS, UNAM** 🎓 and a lover of the mysterious, the artistic, and the deeply philosophical.
+---
 
-- 💻 **Passionate** about AI and diving into the depths of Computer Science.
-- 🤖 On a journey to master **Machine Learning** and **Natural Language Processing**.
+I’m a Data Science student at **IIMAS, UNAM** 🎓, immersed in the mystical, the artistic, and the deeply philosophical.
+
+- 💻 **Passionate** about AI and the inner depths of Computer Science.
+- 🤖 Embarking on a journey through **Machine Learning** and **Natural Language Processing**.
 - 🌱 **Vegetarian** and advocate for compassionate living.
-- 🎮 Fan of dark-themed video games (*Alice: Madness Returns*).
-- 🐈‍⬛ Proud caretaker of **Baphy**, my black cat and mystical code guardian.
+- 🎮 Enthusiast of dark-themed video games (*Alice: Madness Returns*).
+- 🐈‍⬛ **Caretaker of Baphy**, my black cat and mystical code guardian.
 
 ---
 
 ## 🔮 About Me
 
-<a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
-  <img src="https://img.shields.io/badge/Dark%20Vibes%20on%20Spotify-%231db954?style=for-the-badge&logo=spotify&logoColor=black">
-</a>
+<p align="center">
+  <a href="https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=12052d3d5e2a49f8">
+    <img src="https://img.shields.io/badge/Dark%20Vibes%20on%20Spotify-%231db954?style=for-the-badge&logo=spotify&logoColor=black">
+  </a>
+</p>
 
-- 🎻 **Violinist in the Shadows**: Music is my expression when words and code fall short.
-- 📜 **Favorite Quote**: “The unexamined life is not worth living” — Socrates.
-- 💡 **Goal**: To inspire and uplift others through knowledge and creativity.
+- 🎻 **Violinist in the Shadows**: When words and code fall short, music becomes my language; every note expresses the inexpressible.
+- 📜 **Favorite Quote**: “The unexamined life is not worth living.” — Socrates
+- 💡 **Goal**: To inspire and uplift others through shared knowledge and creativity.
+- 🌌 **Drawn to the Dark and Mysterious**: Captivated by beauty hidden in shadows, where depth and mystery converge.
+- 🌱 **Eco-Conscious & Vegetarian**: Living with reverence for nature and a commitment to sustainability.
 
 ---
 
 ## 🖥️ Programming Languages and Technologies
 
-A mix of what I’ve used and what I’m learning:
+A blend of tools and languages I’ve mastered, alongside those I'm currently exploring:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -61,11 +68,9 @@ A mix of what I’ve used and what I’m learning:
 
 ## 🎶 Currently Vibing To
 
-
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=abril_monta%C3%B1o_dn)](https://open.spotify.com/user/abril_monta%C3%B1o_dn?si=96eb432126904cea)
 
 > **"Music is the heartbeat of the soul."**
-
 
 ---
 
@@ -75,17 +80,16 @@ A mix of what I’ve used and what I’m learning:
   <img src="https://media2.giphy.com/media/9QkuSuf7vc3Ly/giphy.webp?cid=ecf05e47jmnqwbtyzuj5gtpxwm3x3ytfycrk3joqrnrab94b&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Moon GIF" width="400">
 </p>
 
-
 ### Meet Baphy, the Enigmatic Overseer 🐾
 
 - **Full Name**: *Baphomet "Baphy" the Enigmatic*
 - **Role**: Nocturnal overseer and mystical protector of my code.
 - **Special Talents**: 
-   - Hauntingly silent keyboard naps
-   - Summoning bugs from the depths of the unknown
+   - Hauntingly silent naps atop keyboards
+   - Summoning bugs from unknown realms
    - Fixating on the void with unbroken focus
 
-> Baphy embodies the gothic spirit of this realm, a shadowed soul who watches over every line of code. His mission: to keep the darkness balanced, the mysteries unsolved, and the code ever intriguing.
+> Baphy embodies the gothic spirit of this space, a shadowed soul who watches over every line of code. His mission: to keep the darkness balanced, the mysteries unsolved, and the code ever intriguing.
 
 **Dare you to continue... or has Baphy's gaze already unsettled you?** 🖤
 
@@ -93,19 +97,23 @@ A mix of what I’ve used and what I’m learning:
 
 ## 🧩 Hobbies & Passions
 
-What truly sparks my interest:
+What truly sparks my curiosity:
 
-- 🧘 **Meditation**: Practicing mindfulness as a daily grounding ritual.
-- 🎶 **Music**: Exploring every genre and its depths.
-- 🍿 **Movies**: Diving into dark narratives and compelling storytelling.
+- 🧘 **Meditation**: Daily mindfulness for grounding and introspection.
+- 🍿 **Dark Cinema & Storytelling**: Drawn to immersive tales and profound narratives.
+- 🎶 **Rock & Emo Music Aficionado**: Lover of rock, emo, and haunting melodies; Paganini’s intensity resonates deeply.
+- 🐈 **Keeper of Felines and Cacti**: Cats are my kindred spirits—especially my companion Baphy—and cacti are resilient nature’s whispers.
+- 📚 **Mystery & Horror Bookworm**: Lost in the pages of Stephen King and Edgar Allan Poe; in their words, I find both solace and intrigue.
+- ☕ **Indie Café Explorer**: Cafés serve as my haven, perfect for exploring indie games and tech.
+- 🎮 **Tech & Gaming Adventurer**: Fascinated by technology and indie games as creative escapes and boundless realms.
 
 ---
 
 ### ⚰️ Philosophy in Code
 
-1. **Every bug has a purpose**: A step closer to perfection, or perhaps… madness.
-2. **Documentation is sorcery**: Rare and valuable when it appears.
-3. **Where art meets science**: True magic unfolds when code works *and* feels beautiful.
+1. **Every bug has a purpose**: Each one brings us closer to perfection… or perhaps madness.
+2. **Documentation is sorcery**: Rarely glimpsed, but invaluable when found.
+3. **Where Art Meets Science**: True magic occurs when code not only works but feels beautiful.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carcinogenetista01&layout=compact&theme=dracula" alt="Top Languages">
