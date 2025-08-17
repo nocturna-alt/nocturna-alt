@@ -1,4 +1,4 @@
-# ∆ nocturna-alt ∆
+# ∆ Nocturna ∆
 
 <div align="center">
 
@@ -7,8 +7,10 @@
 **`Data Science • Machine Learning • Ethical AI`**  
 **`IIMAS–UNAM • Digital Wanderer • Code Philosopher`**
 
-[![GitHub followers](https://img.shields.io/github/followers/carcinogenetista01?style=for-the-badge&logo=github&logoColor=white&color=64ffda)](https://github.com/nocturna-alt1)
+[![Website](https://img.shields.io/badge/Website-nocturnaexe.dev-64ffda?style=for-the-badge&logo=firefox&logoColor=white)](https://nocturnaexe.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-nocturna--alt-bb86fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nocturna-alt)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/abril_monta%C3%B1o_dn)
+[![Email](https://img.shields.io/badge/Contact-cf6679?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abril@nocturnaexe.dev)
 
 </div>
 
@@ -76,28 +78,32 @@ Visualization: [Plotly, Streamlit, Matplotlib, Seaborn]
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Skills
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=carcinogenetista01&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nocturna-alt&theme=tokyo-night)
 
 <table>
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carcinogenetista01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nocturna-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carcinogenetista01&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nocturna-alt&layout=compact&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carcinogenetista01&theme=tokyonight&hide_border=true)
+<!-- Contribution Snake -->
+![GitHub Snake](https://raw.githubusercontent.com/nocturna-alt/nocturna-alt/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nocturna-alt&theme=tokyonight&no-frame=true&column=7)
 
 </div>
 
@@ -233,13 +239,28 @@ def daily_mantra():
 
 ---
 
-## 📈 Current Stats
+## 📈 Professional Metrics
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=carcinogenetista01&color=64ffda&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/carcinogenetista01?style=for-the-badge&color=bb86fc)
-![Repositories](https://img.shields.io/badge/Repositories-Dynamic-cf6679?style=for-the-badge)
+<!-- Typing Speed & Skills -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Scientist+%7C+ML+Engineer;Building+Ethical+AI+Systems;Python+%7C+TensorFlow+%7C+NLP;Always+Learning+%7C+Always+Coding)
+
+<!-- Professional Certifications & Learning -->
+![AWS](https://img.shields.io/badge/AWS_Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP_Learning-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera_ML-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+<!-- Daily Metrics -->
+![Profile Views](https://komarev.com/ghpvc/?username=nocturna-alt&color=64ffda&style=for-the-badge&label=Digital+Wanderers)
+![GitHub Created At](https://img.shields.io/badge/GitHub_Since-2024-bb86fc?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Current_Focus-Ethical_AI-cf6679?style=for-the-badge&logo=brain&logoColor=white)
+
+<!-- Coding Time Simulation -->
+![Code Time](https://img.shields.io/badge/Weekly_Code_Time-40+_hours-64ffda?style=for-the-badge&logo=wakatime&logoColor=white)
+![Languages](https://img.shields.io/badge/Primary_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML Focus](https://img.shields.io/badge/Specialization-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -262,9 +283,10 @@ def daily_mantra():
 **Thanks for exploring my digital realm.** ✨  
 **May your code compile on the first try.** 🚀
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nocturna-alt1)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nocturna-alt)
+[![Website](https://img.shields.io/badge/Visit%20Website-nocturnaexe.dev-64ffda?style=for-the-badge&logo=firefox&logoColor=white)](https://nocturnaexe.dev/)
 [![Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/abril_monta%C3%B1o_dn)
 
-**🌙 Currently coding under the digital moon • Always learning • Forever curious 🌙**
+### 🌙 Currently coding under the digital moon • Always learning • Forever curious 🌙
 
 </div>
