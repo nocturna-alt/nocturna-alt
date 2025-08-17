@@ -140,15 +140,14 @@ def soundtrack_selector(task, time_of_day, bug_level):
 
 ### 🏢 **Data Solutions Developer** — *Parco Ingeniería*
 **`Jan 2021 – Dec 2023 • Mexico City`**
-- 🚀 Designed ETL pipelines handling **10GB+/day**, reducing operational costs by **40%**
-- ⚡ Optimized SQL/NoSQL databases achieving **30% performance increase**
-- 🤝 Led cross-functional teams delivering scalable data solutions
+- 📚 Web Designer
 
-### 🚀 **Founder** — *AI-Powered Invoicing System*
+### 🚀 **Founder** — *AI-Powered*
 **`2024 – Present`**
 - 🤖 Developing automated billing system for SMEs
 - 📄 Implementing intelligent document processing
-- 📊 Building predictive analytics for business insights
+- ⚡ Optimized SQL/NoSQL databases achieving **30% performance increase**
+- 🚀 Designed ETL pipelines handling **10GB+/day**, reducing operational costs by **40%**
 
 ---
 
